@@ -39,7 +39,7 @@ const posesToCapture = [
 // Starts Data Collection Process
 function keyPressed() {
     console.log('Starting Collection');
-    let set = 6;
+    let set = 10;
     let interval = 0;
     let threshold = 3;
     let poseIndex = 0;
